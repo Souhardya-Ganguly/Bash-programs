@@ -1,3 +1,5 @@
+# 10. Write a shell program to find A to the power B.
+
 #! /usr/bin/bash
 pow(){
   a=$1  

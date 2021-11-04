@@ -1,3 +1,5 @@
+# 6. Shell program to check if string is palindrome or not
+
 #! /usr/bin/bash
 
 echo "Input the string without space"

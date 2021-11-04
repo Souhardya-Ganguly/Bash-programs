@@ -1,3 +1,13 @@
+#  5. Shell script to create a menu based program to0
+#
+#  • Print content of current directory
+#
+#  • Print content of present directory
+#
+#  • Display calender
+#
+#  • Exit
+  
 #! /usr/bin/bash
 
 echo "Enter Choice :"

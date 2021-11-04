@@ -1,3 +1,5 @@
+# 12. Write a shell program to conut Number of character, line, and words space, special symbols in a string.
+
 #! /usr/bin/bash
 
 file_path="/home/souhardya/Desktop/GCECTB-R19-2031/file3.txt"

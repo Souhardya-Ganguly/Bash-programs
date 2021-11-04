@@ -1,3 +1,5 @@
+# 9. Write a shall program to find gcd and lcm of two numbers.
+
 #! /usr/bin/bash
  
 echo "Enter two intergers"

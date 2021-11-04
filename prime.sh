@@ -1,3 +1,5 @@
+# 2. Shell program to generate prime numbers upto n
+
 #! /usr/bin/bash
 
 echo Enter N
